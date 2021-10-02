@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vasco.silveira@saltpay.co
+	name = Vasco Silveira
